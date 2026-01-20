@@ -1,4 +1,7 @@
 @extends('admin.layouts.layout')
+@section('admin_page_title')
+Sub Category Manage
+@endsection
 @section('admin_layout')
 <h3>Admin Sub Category Manage</h3>
 
